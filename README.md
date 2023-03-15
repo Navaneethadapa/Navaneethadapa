@@ -20,6 +20,5 @@
 </p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Navaneethadapa&hide_border=true&theme=radical)
-![](https://activity-graph.herokuapp.com/graph?username=Navaneethadapa&theme=redical)
 
 
