@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Cloud☁️ & Crypto**
 
-- 👨‍💻 All of my projects are available at [https://navaneeth.vercel.app/](https://navaneeth.vercel.app/)
+- 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
 - 📫 How to reach me **20pa1a0501@vishnu.edu.in**
 
-- ⚡ Fun fact **Hehe😃**
+- ⚡ Fact **Hehe😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
