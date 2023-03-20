@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **20pa1a0501@vishnu.edu.in**
 
-- ⚡ Fact **Hehe😃**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
