@@ -20,3 +20,7 @@
 
 <h3 align="left">📈 Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneethadapa&show_icons=true&theme=gotham" alt="Navaneethadapa" /><br/>
+
+
+<h3 align="left">📊 Top Languages</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethadapa&layout=compact&theme=gotham" alt="Navaneethadapa" /><br/>
