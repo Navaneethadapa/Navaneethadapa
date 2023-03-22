@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navaneethadapa&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethadapa" /> </p>
 
-- 🔭 I’m currently working on [Mad_Verse](https://mad-verse-navaneethadapa.vercel.app/)
+- 🔭 I’m currently working on **Cloud IAM and VPC Networks**
 
 - 🌱 I’m currently learning **Cloud☁️ & Crypto**
 
