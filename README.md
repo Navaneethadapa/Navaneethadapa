@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloud IAM and VPC Networks**
 
-- 🌱 I’m currently learning **Cloud☁️ & Crypto**
+- 🌱 I’m currently learning **Cloud☁️, Crypto & Terraform**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
