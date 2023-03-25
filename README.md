@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navaneethadapa&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethadapa" /> </p>
 
-- 🔭 I’m currently working on **Cloud IAM and VPC Networks**
+- 🔭 I’m currently working with **IAM and VPC Networks**
 
-- 🌱 I’m currently learning **Cloud☁️, Crypto & Terraform**
+- 🌱 I’m currently learning **Cloud☁️ & Terraform**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
