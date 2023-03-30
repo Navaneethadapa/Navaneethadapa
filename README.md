@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navaneethadapa&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethadapa" /> </p>
 
-- 🔭 I’m currently Exploring on **Webhooks and Bot creation**
+- 🔭 I’m currently Exploring on **Webhooks & DevOps**
 
 - 🌱 I’m currently learning **Cloud☁️ & Terraform**
 
