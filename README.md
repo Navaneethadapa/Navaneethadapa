@@ -10,16 +10,18 @@
 - 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
 - 📫 How to reach me **20pa1a0501@vishnu.edu.in**
-
+<hr>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Navaneeth_adapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Navaneeth_adapa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navaneethsaiadapa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navaneethsaiadapa/" height="30" width="40" /></a>
 </p>
+<hr>
 
 <h3 align="left">📊 Top Languages</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethadapa&layout=compact&theme=gotham" alt="Navaneethadapa" /><br/>
 
 <h3 align="left">📈 Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneethadapa&show_icons=true&theme=gotham" alt="Navaneethadapa" /><br/>
+<hr>
