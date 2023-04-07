@@ -23,5 +23,6 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethadapa&layout=compact&theme=gotham" alt="Navaneethadapa" /><br/>
 
 <h3 align="left">📈 Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneethadapa&show_icons=true&theme=gotham" alt="Navaneethadapa" /><br/>
 
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Navaneethadapa&theme=gotham" alt="Navaneethadapa" /> 
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneethadapa&show_icons=true&theme=gotham" alt="Navaneethadapa" />
