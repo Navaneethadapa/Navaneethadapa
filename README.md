@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Exploring on **Terraform & DevOps**
 
-- 🌱 I’m currently learning **Cloud☁️ & Terraform**
+- 🌱 I’m currently learning **Cloud☁️**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
