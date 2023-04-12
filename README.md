@@ -29,6 +29,4 @@
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Navaneethadapa&theme=gotham" alt="Navaneethadapa" /> 
 
 <hr>
-
-
 ![snake gif](https://github.com/Navaneethadapa/Navaneethadapa/blob/output/github-contribution-grid-snake.gif)
