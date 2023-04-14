@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud☁️**
 
-- 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
+- 👨‍💻 All of my projects are available at [Navaneeth Adapa](https://navaneeth.vercel.app/)
 
 - 📫 How to reach me **20pa1a0501@vishnu.edu.in**
 <hr>
