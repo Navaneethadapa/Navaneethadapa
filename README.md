@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Navaneeth Adapa](https://navaneeth.vercel.app/)
 
-- 📫 How to reach me **20pa1a0501@vishnu.edu.in && navaneethsai1234@gmail.com**
+- 📫 How to reach me **20pa1a0501@vishnu.edu.in**
 <hr>
 
 <h3 align="left">🤝 Connect with me:</h3>
