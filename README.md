@@ -28,5 +28,3 @@
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Navaneethadapa&theme=gotham" alt="Navaneethadapa" /> 
 
-<hr>
-
