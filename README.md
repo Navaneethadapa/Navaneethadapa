@@ -28,5 +28,5 @@
 
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Navaneethadapa&theme=gotham" alt="Navaneeth Sai Adapa" /> 
   
-<a href="http://www.github.com/Navaneethadapa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Navaneethadapa&theme=gotham" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Navaneethadapa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Navaneethadapa&theme=gotham" alt="GitHub Commits" /></a>
 
