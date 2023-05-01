@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Exploring on **Kubernetes & Docker**
 
-- 🌱 I’m currently learning **Cloud☁️**
+- 🌱 I’m currently learning **Strim⚡**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Adapa](https://navaneeth.vercel.app/)
 
