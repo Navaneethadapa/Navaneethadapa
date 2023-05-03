@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Exploring on **Kubernetes & Docker**
 
-- 🌱 I’m currently learning **Strim⚡ & Prisma**
+- 🌱 I’m currently learning **Strim⚡& Prisma☁️**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Adapa](https://navaneeth.vercel.app/)
 
