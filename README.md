@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navaneeth Sai Adapa</h1>
-<h3 align="center">A Passionate Web Developer from India with a strong passion for building responsive and performant web applications with great User experiences that positively impacts the World.</h3>
+<h3 align="center">A Passionate Web Developer from India with a Strong passion for building responsive and performant web applications with great User experiences that positively impacts the World.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navaneethadapa&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethadapa" /> </p>
 
