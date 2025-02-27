@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navaneethadapa&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethadapa" /> </p>
 
-- 🔭 I’m currently Exploring on **Kubernetes & Looker🔎**
+- 🔭 I’m currently Exploring on **Atificial Intelligence**
 
-- 🌱 I’m currently learning ** Strim⚡ **
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [Navaneeth Sai Adapa](https://navaneeth.vercel.app/)
 
-- 📫 How to reach me **20pa1a0501@vishnu.edu.in**
+- 📫 How to reach me **navaneethsai1234@gmail.com**
 <hr>
 
 <h3 align="left">🤝 Connect with me:</h3>
